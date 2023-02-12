@@ -1,5 +1,8 @@
 # Python-For-Data
 Having small codes related to fundamental concepts that must be known before entering into the programming world.
+
+
+
 def mf(a,b):# defining funcyion that can multiply two list with each other using nested for loops
   for a in list1:
     for b in list2:
